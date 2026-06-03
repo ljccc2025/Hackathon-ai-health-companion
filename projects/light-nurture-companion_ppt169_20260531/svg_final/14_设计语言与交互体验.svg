@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <text x="80" y="55" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">纸墨手帐 — 一种温柔的设计语言</text>
+  <path fill="#498268" d="M81.50,72 H128.50 A1.50,1.50 0 0 1 130,73.50 V73.50 A1.50,1.50 0 0 1 128.50,75 H81.50 A1.50,1.50 0 0 1 80,73.50 V73.50 A1.50,1.50 0 0 1 81.50,72 Z" />
+
+  
+  <text x="80" y="110" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">色彩系统</text>
+
+  
+  <circle cx="170" cy="155" r="38" fill="#498268" />
+  <text x="170" y="215" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1C3A2C">Ink 墨</text>
+  <text x="170" y="236" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">#498268</text>
+  <text x="170" y="254" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#9BBBA8">主色调 · 标题重点</text>
+
+  
+  <circle cx="360" cy="155" r="38" fill="#FDFCF9" stroke="#E5D9C3" stroke-width="1.5" />
+  <text x="360" y="215" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1C3A2C">Paper 宣纸</text>
+  <text x="360" y="236" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">#FDFCF9</text>
+  <text x="360" y="254" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#9BBBA8">全局基底背景</text>
+
+  
+  <circle cx="550" cy="155" r="38" fill="#F5973B" />
+  <text x="550" y="215" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1C3A2C">Warm 暖橙</text>
+  <text x="550" y="236" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">#F5973B</text>
+  <text x="550" y="254" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#9BBBA8">活动 · 提醒 · 数据</text>
+
+  
+  <circle cx="740" cy="155" r="38" fill="#D85C7E" />
+  <text x="740" y="215" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1C3A2C">Blossom 粉</text>
+  <text x="740" y="236" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">#D85C7E</text>
+  <text x="740" y="254" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#9BBBA8">情绪 · 温柔互动</text>
+
+  
+  <rect x="80" y="290" width="1120" height="1" fill="#E5D9C3" />
+
+  
+  <text x="80" y="325" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">六大交互亮点</text>
+
+  
+  <circle cx="115" cy="365" r="14" fill="#498268" />
+  <text x="115" y="372" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">1</text>
+  <text x="148" y="372" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#1C3A2C">纸纹理叠层 — CSS 噪声纹理叠加，滚动时透明度动态变化</text>
+  <rect x="148" y="386" width="500" height="1" fill="#F4F7F5" />
+
+  
+  <circle cx="115" cy="418" r="14" fill="#498268" />
+  <text x="115" y="425" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">2</text>
+  <text x="148" y="425" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#1C3A2C">时间感知光晕 — 清晨/上午/午后/傍晚/深夜，6 个时段不同环境色</text>
+  <rect x="148" y="439" width="500" height="1" fill="#F4F7F5" />
+
+  
+  <circle cx="115" cy="471" r="14" fill="#498268" />
+  <text x="115" y="478" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">3</text>
+  <text x="148" y="478" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#1C3A2C">天气粒子动画 — 晴天微光、雨天雨滴、雪天雪花飘落</text>
+
+  
+  <circle cx="640" cy="365" r="14" fill="#498268" />
+  <text x="640" y="372" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">4</text>
+  <text x="673" y="372" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#1C3A2C">3D 翻页过渡 — 桌面端模块切换时页面翻转动画</text>
+  <rect x="673" y="386" width="500" height="1" fill="#F4F7F5" />
+
+  <circle cx="640" cy="418" r="14" fill="#498268" />
+  <text x="640" y="425" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">5</text>
+  <text x="673" y="425" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#1C3A2C">季节色温微调 — 冬季偏暖红、夏季偏冷绿</text>
+  <rect x="673" y="439" width="500" height="1" fill="#F4F7F5" />
+
+  <circle cx="640" cy="471" r="14" fill="#498268" />
+  <text x="640" y="478" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">6</text>
+  <text x="673" y="478" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#1C3A2C">摇一摇鼓励 — 手机摇晃触发全屏温柔短句 + 触觉反馈</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">14 / 17</text>
+</svg>

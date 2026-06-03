@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <text x="80" y="70" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">为什么需要「轻养伴侣」？</text>
+  <path fill="#498268" d="M81.50,90 H128.50 A1.50,1.50 0 0 1 130,91.50 V91.50 A1.50,1.50 0 0 1 128.50,93 H81.50 A1.50,1.50 0 0 1 80,91.50 V91.50 A1.50,1.50 0 0 1 81.50,90 Z" />
+
+  
+  
+  <path fill="#D85C7E" d="M82,120 H82 A2,2 0 0 1 84,122 V188 A2,2 0 0 1 82,190 H82 A2,2 0 0 1 80,188 V122 A2,2 0 0 1 82,120 Z" />
+  <path fill="#F4F7F5" d="M90,120 H670 A10,10 0 0 1 680,130 V180 A10,10 0 0 1 670,190 H90 A10,10 0 0 1 80,180 V130 A10,10 0 0 1 90,120 Z" />
+  <text x="110" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">健康 App 太严苛</text>
+  <text x="110" y="172" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">打卡失败产生负罪感，用户很快放弃，留存率极低</text>
+
+  
+  <path fill="#F5973B" d="M82,210 H82 A2,2 0 0 1 84,212 V278 A2,2 0 0 1 82,280 H82 A2,2 0 0 1 80,278 V212 A2,2 0 0 1 82,210 Z" />
+  <path fill="#F4F7F5" d="M90,210 H670 A10,10 0 0 1 680,220 V270 A10,10 0 0 1 670,280 H90 A10,10 0 0 1 80,270 V220 A10,10 0 0 1 90,210 Z" />
+  <text x="110" y="238" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">情绪无处可说</text>
+  <text x="110" y="262" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">缺少安全的倾诉空间，AI 聊天又缺乏医疗安全边界</text>
+
+  
+  <path fill="#498268" d="M82,300 H82 A2,2 0 0 1 84,302 V368 A2,2 0 0 1 82,370 H82 A2,2 0 0 1 80,368 V302 A2,2 0 0 1 82,300 Z" />
+  <path fill="#F4F7F5" d="M90,300 H670 A10,10 0 0 1 680,310 V360 A10,10 0 0 1 670,370 H90 A10,10 0 0 1 80,360 V310 A10,10 0 0 1 90,300 Z" />
+  <text x="110" y="328" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">久坐缺水被忽视</text>
+  <text x="110" y="352" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">工位提醒像命令而不是关心，用户产生抵触情绪</text>
+
+  
+  <path fill="#6D9C83" d="M82,390 H82 A2,2 0 0 1 84,392 V458 A2,2 0 0 1 82,460 H82 A2,2 0 0 1 80,458 V392 A2,2 0 0 1 82,390 Z" />
+  <path fill="#F4F7F5" d="M90,390 H670 A10,10 0 0 1 680,400 V450 A10,10 0 0 1 670,460 H90 A10,10 0 0 1 80,450 V400 A10,10 0 0 1 90,390 Z" />
+  <text x="110" y="418" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">数据冷冰冰</text>
+  <text x="110" y="442" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">只有图表和数字，没有温度，无法产生情感连接</text>
+
+  
+  <path fill="#C4D6CC" d="M82,480 H82 A2,2 0 0 1 84,482 V548 A2,2 0 0 1 82,550 H82 A2,2 0 0 1 80,548 V482 A2,2 0 0 1 82,480 Z" />
+  <path fill="#F4F7F5" d="M90,480 H670 A10,10 0 0 1 680,490 V540 A10,10 0 0 1 670,550 H90 A10,10 0 0 1 80,540 V490 A10,10 0 0 1 90,480 Z" />
+  <text x="110" y="508" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">隐私让人不安</text>
+  <text x="110" y="532" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">健康数据被上传云端，用户不敢记录真实状态</text>
+
+  
+  <path fill="none" stroke="#E5D9C3" stroke-width="2" stroke-dasharray="8,4" d="M760,160 H920 A20,20 0 0 1 940,180 V520 A20,20 0 0 1 920,540 H760 A20,20 0 0 1 740,520 V180 A20,20 0 0 1 760,160 Z" />
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M766,200 H914 A6,6 0 0 1 920,206 V494 A6,6 0 0 1 914,500 H766 A6,6 0 0 1 760,494 V206 A6,6 0 0 1 766,200 Z" />
+  <text x="840" y="355" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#9BBBA8">传统健康 App</text>
+  <text x="840" y="380" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#9BBBA8">让人焦虑</text>
+  <text x="840" y="630" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#C4D6CC">← 应用截图占位</text>
+
+  
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">03 / 17</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <text x="80" y="55" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">本地优先的数据架构</text>
+  <path fill="#498268" d="M81.50,72 H128.50 A1.50,1.50 0 0 1 130,73.50 V73.50 A1.50,1.50 0 0 1 128.50,75 H81.50 A1.50,1.50 0 0 1 80,73.50 V73.50 A1.50,1.50 0 0 1 81.50,72 Z" />
+
+  
+  
+  <path fill="#498268" d="M106,105 H274 A6,6 0 0 1 280,111 V135 A6,6 0 0 1 274,141 H106 A6,6 0 0 1 100,135 V111 A6,6 0 0 1 106,105 Z" />
+  <text x="190" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">数据表</text>
+  <path fill="#498268" d="M294,105 H402 A6,6 0 0 1 408,111 V135 A6,6 0 0 1 402,141 H294 A6,6 0 0 1 288,135 V111 A6,6 0 0 1 294,105 Z" />
+  <text x="348" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">说明</text>
+  <path fill="#498268" d="M422,105 H590 A6,6 0 0 1 596,111 V135 A6,6 0 0 1 590,141 H422 A6,6 0 0 1 416,135 V111 A6,6 0 0 1 422,105 Z" />
+  <text x="506" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">数据表</text>
+  <path fill="#498268" d="M610,105 H718 A6,6 0 0 1 724,111 V135 A6,6 0 0 1 718,141 H610 A6,6 0 0 1 604,135 V111 A6,6 0 0 1 610,105 Z" />
+  <text x="664" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">说明</text>
+
+  
+  <path fill="#F4F7F5" d="M106,148 H274 A6,6 0 0 1 280,154 V176 A6,6 0 0 1 274,182 H106 A6,6 0 0 1 100,176 V154 A6,6 0 0 1 106,148 Z" />
+  <text x="115" y="171" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">hydration · 喝水记录</text>
+  <path fill="#F4F7F5" d="M294,148 H402 A6,6 0 0 1 408,154 V176 A6,6 0 0 1 402,182 H294 A6,6 0 0 1 288,176 V154 A6,6 0 0 1 294,148 Z" />
+  <text x="348" y="171" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">💧 饮水追踪</text>
+  <path fill="#FDFCF9" d="M422,148 H590 A6,6 0 0 1 596,154 V176 A6,6 0 0 1 590,182 H422 A6,6 0 0 1 416,176 V154 A6,6 0 0 1 422,148 Z" />
+  <text x="431" y="171" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">sticker · 成就贴纸</text>
+  <path fill="#FDFCF9" d="M610,148 H718 A6,6 0 0 1 724,154 V176 A6,6 0 0 1 718,182 H610 A6,6 0 0 1 604,176 V154 A6,6 0 0 1 610,148 Z" />
+  <text x="664" y="171" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">⭐ 6 种贴纸</text>
+
+  
+  <path fill="#FDFCF9" d="M106,188 H274 A6,6 0 0 1 280,194 V216 A6,6 0 0 1 274,222 H106 A6,6 0 0 1 100,216 V194 A6,6 0 0 1 106,188 Z" />
+  <text x="115" y="211" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">standup · 起身记录</text>
+  <path fill="#FDFCF9" d="M294,188 H402 A6,6 0 0 1 408,194 V216 A6,6 0 0 1 402,222 H294 A6,6 0 0 1 288,216 V194 A6,6 0 0 1 294,188 Z" />
+  <text x="348" y="211" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🏃 久坐恢复</text>
+  <path fill="#F4F7F5" d="M422,188 H590 A6,6 0 0 1 596,194 V216 A6,6 0 0 1 590,222 H422 A6,6 0 0 1 416,216 V194 A6,6 0 0 1 422,188 Z" />
+  <text x="431" y="211" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">gentleQuote · 温柔语录</text>
+  <path fill="#F4F7F5" d="M610,188 H718 A6,6 0 0 1 724,194 V216 A6,6 0 0 1 718,222 H610 A6,6 0 0 1 604,216 V194 A6,6 0 0 1 610,188 Z" />
+  <text x="664" y="211" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">💬 AI 短句</text>
+
+  
+  <path fill="#F4F7F5" d="M106,228 H274 A6,6 0 0 1 280,234 V256 A6,6 0 0 1 274,262 H106 A6,6 0 0 1 100,256 V234 A6,6 0 0 1 106,228 Z" />
+  <text x="115" y="251" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">emotionFood · 情绪进食</text>
+  <path fill="#F4F7F5" d="M294,228 H402 A6,6 0 0 1 408,234 V256 A6,6 0 0 1 402,262 H294 A6,6 0 0 1 288,256 V234 A6,6 0 0 1 294,228 Z" />
+  <text x="348" y="251" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🍽 饮食情绪</text>
+  <path fill="#FDFCF9" d="M422,228 H590 A6,6 0 0 1 596,234 V256 A6,6 0 0 1 590,262 H422 A6,6 0 0 1 416,256 V234 A6,6 0 0 1 422,228 Z" />
+  <text x="431" y="251" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">cycleRecord · 生理周期</text>
+  <path fill="#FDFCF9" d="M610,228 H718 A6,6 0 0 1 724,234 V256 A6,6 0 0 1 718,262 H610 A6,6 0 0 1 604,256 V234 A6,6 0 0 1 610,228 Z" />
+  <text x="664" y="251" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">📅 四阶段</text>
+
+  
+  <path fill="#FDFCF9" d="M106,268 H274 A6,6 0 0 1 280,274 V296 A6,6 0 0 1 274,302 H106 A6,6 0 0 1 100,296 V274 A6,6 0 0 1 106,268 Z" />
+  <text x="115" y="291" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">medicine · 用药提醒</text>
+  <path fill="#FDFCF9" d="M294,268 H402 A6,6 0 0 1 408,274 V296 A6,6 0 0 1 402,302 H294 A6,6 0 0 1 288,296 V274 A6,6 0 0 1 294,268 Z" />
+  <text x="348" y="291" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">💊 定时提醒</text>
+  <path fill="#F4F7F5" d="M422,268 H590 A6,6 0 0 1 596,274 V296 A6,6 0 0 1 590,302 H422 A6,6 0 0 1 416,296 V274 A6,6 0 0 1 422,268 Z" />
+  <text x="431" y="291" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">snack · 零食记录</text>
+  <path fill="#F4F7F5" d="M610,268 H718 A6,6 0 0 1 724,274 V296 A6,6 0 0 1 718,302 H610 A6,6 0 0 1 604,296 V274 A6,6 0 0 1 610,268 Z" />
+  <text x="664" y="291" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🍪 emoji</text>
+
+  
+  <path fill="#F4F7F5" d="M106,308 H274 A6,6 0 0 1 280,314 V336 A6,6 0 0 1 274,342 H106 A6,6 0 0 1 100,336 V314 A6,6 0 0 1 106,308 Z" />
+  <text x="115" y="331" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">moodTreeHole · 情绪树洞</text>
+  <path fill="#F4F7F5" d="M294,308 H402 A6,6 0 0 1 408,314 V336 A6,6 0 0 1 402,342 H294 A6,6 0 0 1 288,336 V314 A6,6 0 0 1 294,308 Z" />
+  <text x="348" y="331" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🌳 倾诉记录</text>
+  <path fill="#FDFCF9" d="M422,308 H590 A6,6 0 0 1 596,314 V336 A6,6 0 0 1 590,342 H422 A6,6 0 0 1 416,336 V314 A6,6 0 0 1 422,308 Z" />
+  <text x="431" y="331" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">sleep · 睡眠记录</text>
+  <path fill="#FDFCF9" d="M610,308 H718 A6,6 0 0 1 724,314 V336 A6,6 0 0 1 718,342 H610 A6,6 0 0 1 604,336 V314 A6,6 0 0 1 610,308 Z" />
+  <text x="664" y="331" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">😴 好/一般/差</text>
+
+  
+  <text x="80" y="395" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">数据原则</text>
+
+  <path fill="#E2EBE5" d="M101,415 H259 A21,21 0 0 1 280,436 V436 A21,21 0 0 1 259,457 H101 A21,21 0 0 1 80,436 V436 A21,21 0 0 1 101,415 Z" />
+  <text x="180" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">💾 全部本地存储</text>
+
+  <text x="300" y="441" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">→</text>
+
+  <path fill="#E2EBE5" d="M351,415 H509 A21,21 0 0 1 530,436 V436 A21,21 0 0 1 509,457 H351 A21,21 0 0 1 330,436 V436 A21,21 0 0 1 351,415 Z" />
+  <text x="430" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">☁ 不上传云端</text>
+
+  <text x="550" y="441" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">→</text>
+
+  <path fill="#E2EBE5" d="M601,415 H789 A21,21 0 0 1 810,436 V436 A21,21 0 0 1 789,457 H601 A21,21 0 0 1 580,436 V436 A21,21 0 0 1 601,415 Z" />
+  <text x="695" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">🔒 用户完全掌控</text>
+
+  <text x="830" y="441" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">→</text>
+
+  <path fill="#E2EBE5" d="M881,415 H1069 A21,21 0 0 1 1090,436 V436 A21,21 0 0 1 1069,457 H881 A21,21 0 0 1 860,436 V436 A21,21 0 0 1 881,415 Z" />
+  <text x="975" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">📤 AI 最小化数据</text>
+
+  
+  <text x="80" y="510" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#9BBBA8">数据库：LightNurtureDB · 引擎：Dexie.js · 版本：v12（12 次增量迁移）· 共计 11 张业务表</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">15 / 17</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title + module tag -->
+  <rect x="80" y="50" width="50" height="24" rx="12" fill="#498268"/>
+  <text x="105" y="67" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#FDFCF9">模块二</text>
+  <text x="145" y="68" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">身体补给 — 轻轻照顾身体</text>
+  <rect x="145" y="82" width="50" height="3" rx="1.5" fill="#498268"/>
+
+  <!-- Feature list (left 55%) -->
+  <circle cx="115" cy="140" r="4" fill="#498268"/>
+  <text x="135" y="146" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">喝水追踪</text>
+  <text x="135" y="170" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">小口/半杯/整杯，三种水量记录，手动或提醒触发</text>
+
+  <circle cx="115" cy="215" r="4" fill="#498268"/>
+  <text x="135" y="221" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">用药笔记</text>
+  <text x="135" y="245" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">自定义药名、剂量、时间、重复规则（一次/每天/自定义）</text>
+
+  <circle cx="115" cy="290" r="4" fill="#D85C7E"/>
+  <text x="135" y="296" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#D85C7E">用药安全 ⚠</text>
+  <text x="135" y="320" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#D85C7E">不提供药物建议，仅在用户设定时间温柔提醒</text>
+
+  <circle cx="115" cy="365" r="4" fill="#498268"/>
+  <text x="135" y="371" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">生理周期追踪 + 零食记录</text>
+  <text x="135" y="395" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">经期四阶段记录，emoji + 标签记录小零食</text>
+
+  <circle cx="115" cy="440" r="4" fill="#498268"/>
+  <text x="135" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">饮水热力图</text>
+  <text x="135" y="470" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">按周/月查看饮水分布，一眼看懂补水模式</text>
+
+  <!-- Right: screenshot placeholder -->
+  <rect x="720" y="120" width="200" height="370" rx="18" fill="none" stroke="#E5D9C3" stroke-width="2" stroke-dasharray="8,4"/>
+  <rect x="740" y="160" width="160" height="300" rx="8" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="820" y="320" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9BBBA8">水杯动画 +</text>
+  <text x="820" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9BBBA8">用药卡片截图</text>
+  <text x="820" y="540" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#C4D6CC">← 截图占位</text>
+
+  <!-- Bottom safety warning bar -->
+  <rect x="80" y="530" width="4" height="50" rx="2" fill="#F5973B"/>
+  <rect x="80" y="530" width="600" height="50" rx="8" fill="#FEF3E4"/>
+  <text x="110" y="560" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9C5018">⚠ 本产品不提供药物建议，仅在用户设定时间提醒。所有数据存储在本地 IndexedDB，不上传云端。</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">07 / 17</text>
+</svg>

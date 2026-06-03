@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <text x="80" y="65" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">技术栈与系统架构</text>
+  <path fill="#498268" d="M81.50,85 H128.50 A1.50,1.50 0 0 1 130,86.50 V86.50 A1.50,1.50 0 0 1 128.50,88 H81.50 A1.50,1.50 0 0 1 80,86.50 V86.50 A1.50,1.50 0 0 1 81.50,85 Z" />
+
+  
+  <path fill="#F4F7F5" stroke="#498268" stroke-width="2" d="M112,120 H688 A12,12 0 0 1 700,132 V218 A12,12 0 0 1 688,230 H112 A12,12 0 0 1 100,218 V132 A12,12 0 0 1 112,120 Z" />
+  <text x="130" y="155" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#498268">PWA 应用层（前端）</text>
+  <text x="130" y="182" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">React 19 + TypeScript 6.0 · Tailwind CSS 4 · Framer Motion 12 · Zustand 5</text>
+
+  
+  <text x="400" y="255" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">↓</text>
+
+  
+  <path fill="#F8F4ED" stroke="#F5973B" stroke-width="2" d="M112,268 H688 A12,12 0 0 1 700,280 V366 A12,12 0 0 1 688,378 H112 A12,12 0 0 1 100,366 V280 A12,12 0 0 1 112,268 Z" />
+  <text x="130" y="303" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#F5973B">数据与服务层</text>
+  <text x="130" y="330" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">Dexie.js IndexedDB（11 张表 · 12 版本迁移）· Service Worker 离线缓存 · Web Speech API</text>
+
+  
+  <text x="400" y="403" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">↓</text>
+
+  
+  <path fill="#FBEEF2" stroke="#D85C7E" stroke-width="2" d="M112,416 H688 A12,12 0 0 1 700,428 V514 A12,12 0 0 1 688,526 H112 A12,12 0 0 1 100,514 V428 A12,12 0 0 1 112,416 Z" />
+  <text x="130" y="451" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#D85C7E">AI 后端（可选）</text>
+  <text x="130" y="478" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">Hono 4 服务器（:8787）· 8 个 API 端点 · 三层安全管线 · Vite 代理转发</text>
+
+  
+  <path fill="#F4F7F5" d="M796,120 H864 A16,16 0 0 1 880,136 V136 A16,16 0 0 1 864,152 H796 A16,16 0 0 1 780,136 V136 A16,16 0 0 1 796,120 Z" />
+  <text x="830" y="141" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#498268">React 19</text>
+
+  <path fill="#F4F7F5" d="M911,120 H989 A16,16 0 0 1 1005,136 V136 A16,16 0 0 1 989,152 H911 A16,16 0 0 1 895,136 V136 A16,16 0 0 1 911,120 Z" />
+  <text x="950" y="141" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#498268">TypeScript 6</text>
+
+  <path fill="#F4F7F5" d="M796,165 H854 A16,16 0 0 1 870,181 V181 A16,16 0 0 1 854,197 H796 A16,16 0 0 1 780,181 V181 A16,16 0 0 1 796,165 Z" />
+  <text x="825" y="186" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#498268">Vite 8</text>
+
+  <path fill="#F4F7F5" d="M901,165 H969 A16,16 0 0 1 985,181 V181 A16,16 0 0 1 969,197 H901 A16,16 0 0 1 885,181 V181 A16,16 0 0 1 901,165 Z" />
+  <text x="935" y="186" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#498268">Tailwind 4</text>
+
+  <path fill="#F8F4ED" d="M796,210 H894 A16,16 0 0 1 910,226 V226 A16,16 0 0 1 894,242 H796 A16,16 0 0 1 780,226 V226 A16,16 0 0 1 796,210 Z" />
+  <text x="845" y="231" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#F5973B">Framer Motion</text>
+
+  <path fill="#F8F4ED" d="M941,210 H1009 A16,16 0 0 1 1025,226 V226 A16,16 0 0 1 1009,242 H941 A16,16 0 0 1 925,226 V226 A16,16 0 0 1 941,210 Z" />
+  <text x="975" y="231" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#F5973B">Zustand 5</text>
+
+  <path fill="#F8F4ED" d="M796,255 H864 A16,16 0 0 1 880,271 V271 A16,16 0 0 1 864,287 H796 A16,16 0 0 1 780,271 V271 A16,16 0 0 1 796,255 Z" />
+  <text x="830" y="276" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#F5973B">Dexie.js 4</text>
+
+  <path fill="#F4F7F5" d="M911,255 H959 A16,16 0 0 1 975,271 V271 A16,16 0 0 1 959,287 H911 A16,16 0 0 1 895,271 V271 A16,16 0 0 1 911,255 Z" />
+  <text x="935" y="276" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#498268">PWA</text>
+
+  <path fill="#FBEEF2" d="M796,300 H884 A16,16 0 0 1 900,316 V316 A16,16 0 0 1 884,332 H796 A16,16 0 0 1 780,316 V316 A16,16 0 0 1 796,300 Z" />
+  <text x="840" y="321" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#D85C7E">Hono 4</text>
+
+  <path fill="#FBEEF2" d="M931,300 H989 A16,16 0 0 1 1005,316 V316 A16,16 0 0 1 989,332 H931 A16,16 0 0 1 915,316 V316 A16,16 0 0 1 931,300 Z" />
+  <text x="960" y="321" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#D85C7E">Safety Guard</text>
+
+  
+  <text x="80" y="600" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">🔄 PWA 离线可用 · 📱 可安装到主屏幕 · 💾 本地优先数据架构 · 🛡️ 三层 AI 安全管线</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">12 / 17</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- Background -->
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title -->
+  <text x="80" y="70" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">为什么需要「轻养伴侣」？</text>
+  <rect x="80" y="90" width="50" height="3" rx="1.5" fill="#498268"/>
+
+  <!-- Pain point cards (left 55%) -->
+  <!-- Card 1 -->
+  <rect x="80" y="120" width="4" height="70" rx="2" fill="#D85C7E"/>
+  <rect x="80" y="120" width="600" height="70" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">健康 App 太严苛</text>
+  <text x="110" y="172" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">打卡失败产生负罪感，用户很快放弃，留存率极低</text>
+
+  <!-- Card 2 -->
+  <rect x="80" y="210" width="4" height="70" rx="2" fill="#F5973B"/>
+  <rect x="80" y="210" width="600" height="70" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="238" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">情绪无处可说</text>
+  <text x="110" y="262" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">缺少安全的倾诉空间，AI 聊天又缺乏医疗安全边界</text>
+
+  <!-- Card 3 -->
+  <rect x="80" y="300" width="4" height="70" rx="2" fill="#498268"/>
+  <rect x="80" y="300" width="600" height="70" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="328" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">久坐缺水被忽视</text>
+  <text x="110" y="352" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">工位提醒像命令而不是关心，用户产生抵触情绪</text>
+
+  <!-- Card 4 -->
+  <rect x="80" y="390" width="4" height="70" rx="2" fill="#6D9C83"/>
+  <rect x="80" y="390" width="600" height="70" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="418" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">数据冷冰冰</text>
+  <text x="110" y="442" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">只有图表和数字，没有温度，无法产生情感连接</text>
+
+  <!-- Card 5 -->
+  <rect x="80" y="480" width="4" height="70" rx="2" fill="#C4D6CC"/>
+  <rect x="80" y="480" width="600" height="70" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="508" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">隐私让人不安</text>
+  <text x="110" y="532" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">健康数据被上传云端，用户不敢记录真实状态</text>
+
+  <!-- Right side: Phone placeholder -->
+  <rect x="740" y="160" width="200" height="380" rx="20" fill="none" stroke="#E5D9C3" stroke-width="2" stroke-dasharray="8,4"/>
+  <rect x="760" y="200" width="160" height="300" rx="6" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="840" y="355" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#9BBBA8">传统健康 App</text>
+  <text x="840" y="380" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#9BBBA8">让人焦虑</text>
+  <text x="840" y="630" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#C4D6CC">← 应用截图占位</text>
+
+  <!-- Page number -->
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">03 / 17</text>
+</svg>

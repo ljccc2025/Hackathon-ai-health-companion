@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <path fill="#F5973B" d="M92,50 H118 A12,12 0 0 1 130,62 V62 A12,12 0 0 1 118,74 H92 A12,12 0 0 1 80,62 V62 A12,12 0 0 1 92,50 Z" />
+  <text x="105" y="67" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#FDFCF9">模块三</text>
+  <text x="145" y="68" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">活动一下 — 从久坐里把自己捞出来</text>
+  <path fill="#F5973B" d="M146.50,82 H193.50 A1.50,1.50 0 0 1 195,83.50 V83.50 A1.50,1.50 0 0 1 193.50,85 H146.50 A1.50,1.50 0 0 1 145,83.50 V83.50 A1.50,1.50 0 0 1 146.50,82 Z" />
+
+  
+  <circle cx="115" cy="140" r="4" fill="#F5973B" />
+  <text x="135" y="146" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">久坐起身提醒</text>
+  <text x="135" y="170" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">检测久坐时间，超过阈值温柔提醒 + 猫猫同步动画</text>
+
+  <circle cx="115" cy="215" r="4" fill="#F5973B" />
+  <text x="135" y="221" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">散步计时器</text>
+  <text x="135" y="245" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">自定义散步时长，倒计时 + 完成鼓励</text>
+
+  <circle cx="115" cy="290" r="4" fill="#F5973B" />
+  <text x="135" y="296" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">微运动</text>
+  <text x="135" y="320" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">颈部/眼睛/手腕/背部/全身，每次仅需 30 秒−2 分钟</text>
+
+  <circle cx="115" cy="365" r="4" fill="#F5973B" />
+  <text x="135" y="371" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">睡前呼吸引导</text>
+  <text x="135" y="395" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">4-2-6 呼吸法 + SVG 圆环动画引导</text>
+
+  <circle cx="115" cy="440" r="4" fill="#F5973B" />
+  <text x="135" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">白噪音</text>
+  <text x="135" y="470" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">内置白噪音播放，辅助专注或放松</text>
+
+  
+  <path fill="none" stroke="#E5D9C3" stroke-width="2" stroke-dasharray="8,4" d="M738,120 H902 A18,18 0 0 1 920,138 V472 A18,18 0 0 1 902,490 H738 A18,18 0 0 1 720,472 V138 A18,18 0 0 1 738,120 Z" />
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M748,160 H892 A8,8 0 0 1 900,168 V452 A8,8 0 0 1 892,460 H748 A8,8 0 0 1 740,452 V168 A8,8 0 0 1 748,160 Z" />
+  <text x="820" y="320" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9BBBA8">呼吸圆环</text>
+  <text x="820" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9BBBA8">动画截图</text>
+
+  
+  <path fill="#FEFAF5" stroke="#F5973B" stroke-width="1" d="M730,520 H990 A10,10 0 0 1 1000,530 V560 A10,10 0 0 1 990,570 H730 A10,10 0 0 1 720,560 V530 A10,10 0 0 1 730,520 Z" />
+  <text x="860" y="550" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#F5973B">吸气 4 秒 → 停留 2 秒 → 呼气 6 秒</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">08 / 17</text>
+</svg>

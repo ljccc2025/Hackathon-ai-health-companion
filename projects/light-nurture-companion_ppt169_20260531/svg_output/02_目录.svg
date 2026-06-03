@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- Background -->
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title -->
+  <text x="80" y="100" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">目录</text>
+  <rect x="80" y="115" width="50" height="3" rx="1.5" fill="#498268"/>
+
+  <!-- Right decorative circle -->
+  <circle cx="1120" cy="360" r="160" fill="#F4F7F5"/>
+
+  <!-- TOC items -->
+  <!-- Item 1 -->
+  <text x="120" y="180" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">01</text>
+  <text x="170" y="180" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">项目背景与痛点</text>
+  <rect x="120" y="200" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Item 2 -->
+  <text x="120" y="245" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">02</text>
+  <text x="170" y="245" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">产品定位与核心理念</text>
+  <rect x="120" y="265" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Item 3 -->
+  <text x="120" y="310" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">03</text>
+  <text x="170" y="310" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">六大功能模块总览</text>
+  <rect x="120" y="330" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Item 4 -->
+  <text x="120" y="375" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">04</text>
+  <text x="170" y="375" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">功能详解 — 六大模块</text>
+  <rect x="120" y="395" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Item 5 -->
+  <text x="120" y="440" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">05</text>
+  <text x="170" y="440" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">技术架构</text>
+  <rect x="120" y="460" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Item 6 -->
+  <text x="120" y="505" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">06</text>
+  <text x="170" y="505" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">安全与隐私设计</text>
+  <rect x="120" y="525" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Item 7 -->
+  <text x="120" y="570" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">07</text>
+  <text x="170" y="570" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#1C3A2C">设计语言 · 数据模型 · 总结展望</text>
+  <rect x="120" y="590" width="500" height="1" fill="#E5D9C3"/>
+
+  <!-- Page number -->
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">02 / 17</text>
+</svg>

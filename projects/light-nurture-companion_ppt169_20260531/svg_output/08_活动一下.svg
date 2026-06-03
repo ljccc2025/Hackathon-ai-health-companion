@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title + module tag -->
+  <rect x="80" y="50" width="50" height="24" rx="12" fill="#F5973B"/>
+  <text x="105" y="67" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#FDFCF9">模块三</text>
+  <text x="145" y="68" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">活动一下 — 从久坐里把自己捞出来</text>
+  <rect x="145" y="82" width="50" height="3" rx="1.5" fill="#F5973B"/>
+
+  <!-- Feature list (left 55%) -->
+  <circle cx="115" cy="140" r="4" fill="#F5973B"/>
+  <text x="135" y="146" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">久坐起身提醒</text>
+  <text x="135" y="170" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">检测久坐时间，超过阈值温柔提醒 + 猫猫同步动画</text>
+
+  <circle cx="115" cy="215" r="4" fill="#F5973B"/>
+  <text x="135" y="221" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">散步计时器</text>
+  <text x="135" y="245" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">自定义散步时长，倒计时 + 完成鼓励</text>
+
+  <circle cx="115" cy="290" r="4" fill="#F5973B"/>
+  <text x="135" y="296" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">微运动</text>
+  <text x="135" y="320" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">颈部/眼睛/手腕/背部/全身，每次仅需 30 秒−2 分钟</text>
+
+  <circle cx="115" cy="365" r="4" fill="#F5973B"/>
+  <text x="135" y="371" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">睡前呼吸引导</text>
+  <text x="135" y="395" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">4-2-6 呼吸法 + SVG 圆环动画引导</text>
+
+  <circle cx="115" cy="440" r="4" fill="#F5973B"/>
+  <text x="135" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">白噪音</text>
+  <text x="135" y="470" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">内置白噪音播放，辅助专注或放松</text>
+
+  <!-- Right: screenshot placeholder -->
+  <rect x="720" y="120" width="200" height="370" rx="18" fill="none" stroke="#E5D9C3" stroke-width="2" stroke-dasharray="8,4"/>
+  <rect x="740" y="160" width="160" height="300" rx="8" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="820" y="320" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9BBBA8">呼吸圆环</text>
+  <text x="820" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#9BBBA8">动画截图</text>
+
+  <!-- Breathing method card -->
+  <rect x="720" y="520" width="280" height="50" rx="10" fill="#FEFAF5" stroke="#F5973B" stroke-width="1"/>
+  <text x="860" y="550" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#F5973B">吸气 4 秒 → 停留 2 秒 → 呼气 6 秒</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">08 / 17</text>
+</svg>

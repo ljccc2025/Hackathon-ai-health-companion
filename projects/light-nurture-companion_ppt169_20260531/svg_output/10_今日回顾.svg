@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title + module tag -->
+  <rect x="80" y="50" width="50" height="24" rx="12" fill="#6D9C83"/>
+  <text x="105" y="67" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#FDFCF9">模块五</text>
+  <text x="145" y="68" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">今日回顾 — 把照顾自己的瞬间收起来</text>
+  <rect x="145" y="82" width="50" height="3" rx="1.5" fill="#6D9C83"/>
+
+  <!-- Feature list (left 55%) -->
+  <circle cx="115" cy="140" r="4" fill="#6D9C83"/>
+  <text x="135" y="146" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">睡眠记录</text>
+  <text x="135" y="170" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">记录昨晚睡眠质量（好 / 一般 / 差）</text>
+
+  <circle cx="115" cy="215" r="4" fill="#6D9C83"/>
+  <text x="135" y="221" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">每日总结</text>
+  <text x="135" y="245" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">喝水/起身/情绪/呼吸四项汇总统计</text>
+
+  <circle cx="115" cy="290" r="4" fill="#6D9C83"/>
+  <text x="135" y="296" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">每日日记</text>
+  <text x="135" y="320" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">一句话日记，跨日自动清空</text>
+
+  <circle cx="115" cy="365" r="4" fill="#6D9C83"/>
+  <text x="135" y="371" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">成就贴纸墙</text>
+  <text x="135" y="395" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">完成行为获得小贴纸（6 种）</text>
+
+  <circle cx="115" cy="440" r="4" fill="#6D9C83"/>
+  <text x="135" y="446" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">温柔语录</text>
+  <text x="135" y="470" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">展示和收藏 AI 生成的温柔短句</text>
+
+  <!-- Right: Sticker wall (2x3 grid) -->
+  <text x="750" y="130" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">成就贴纸展示</text>
+
+  <!-- Row 1 -->
+  <rect x="730" y="150" width="110" height="95" rx="12" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="785" y="188" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="28" fill="#498268">💧</text>
+  <text x="785" y="225" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#6D9C83">小水滴</text>
+
+  <rect x="855" y="150" width="110" height="95" rx="12" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="910" y="188" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="28" fill="#F5973B">🪑</text>
+  <text x="910" y="225" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#6D9C83">离开椅子</text>
+
+  <rect x="980" y="150" width="110" height="95" rx="12" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="1035" y="188" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="28" fill="#D85C7E">⏸</text>
+  <text x="1035" y="225" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#6D9C83">暂停键</text>
+
+  <!-- Row 2 -->
+  <rect x="730" y="260" width="110" height="95" rx="12" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="785" y="298" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="28" fill="#498268">🌙</text>
+  <text x="785" y="335" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#6D9C83">小月亮</text>
+
+  <rect x="855" y="260" width="110" height="95" rx="12" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="910" y="298" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="28" fill="#498268">📝</text>
+  <text x="910" y="335" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#6D9C83">小纸条</text>
+
+  <rect x="980" y="260" width="110" height="95" rx="12" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="1035" y="298" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="28" fill="#498268">🌿</text>
+  <text x="1035" y="335" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#6D9C83">舒展叶</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">10 / 17</text>
+</svg>

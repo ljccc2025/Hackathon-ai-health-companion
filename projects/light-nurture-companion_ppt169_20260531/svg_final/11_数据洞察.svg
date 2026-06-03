@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <path fill="#498268" d="M92,45 H118 A12,12 0 0 1 130,57 V57 A12,12 0 0 1 118,69 H92 A12,12 0 0 1 80,57 V57 A12,12 0 0 1 92,45 Z" />
+  <text x="105" y="62" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#FDFCF9">模块六</text>
+  <text x="145" y="63" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">数据洞察 — 温柔地看见自己的痕迹</text>
+  <path fill="#498268" d="M146.50,78 H193.50 A1.50,1.50 0 0 1 195,79.50 V79.50 A1.50,1.50 0 0 1 193.50,81 H146.50 A1.50,1.50 0 0 1 145,79.50 V79.50 A1.50,1.50 0 0 1 146.50,78 Z" />
+
+  
+  <circle cx="115" cy="130" r="4" fill="#498268" />
+  <text x="135" y="136" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1C3A2C">喝水热力图</text>
+  <text x="135" y="158" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">按周/月展示饮水分布，一眼看懂补水模式</text>
+
+  <circle cx="115" cy="200" r="4" fill="#498268" />
+  <text x="135" y="206" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1C3A2C">情绪趋势图</text>
+  <text x="135" y="228" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">7 天 / 30 天情绪标签变化趋势</text>
+
+  <circle cx="115" cy="270" r="4" fill="#498268" />
+  <text x="135" y="276" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1C3A2C">健康快照</text>
+  <text x="135" y="298" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">当日四项指标汇总卡片，一键导出为图片分享</text>
+
+  <circle cx="115" cy="340" r="4" fill="#498268" />
+  <text x="135" y="346" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1C3A2C">AI 周报</text>
+  <text x="135" y="368" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">温柔的语气总结一周自我照顾，不是冷冰冰的报告</text>
+
+  <circle cx="115" cy="410" r="4" fill="#498268" />
+  <text x="135" y="416" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1C3A2C">饮食模式洞察 + 趋势预测</text>
+  <text x="135" y="438" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">AI 分析进食模式，基于历史数据生成趋势提醒</text>
+
+  
+  
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M742,120 H938 A12,12 0 0 1 950,132 V238 A12,12 0 0 1 938,250 H742 A12,12 0 0 1 730,238 V132 A12,12 0 0 1 742,120 Z" />
+  <text x="840" y="148" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#498268">饮水热力图预览</text>
+  
+  <path fill="#E2EBE5" d="M762,162 H776 A2,2 0 0 1 778,164 V178 A2,2 0 0 1 776,180 H762 A2,2 0 0 1 760,178 V164 A2,2 0 0 1 762,162 Z" />
+  <path fill="#C4D6CC" d="M784,162 H798 A2,2 0 0 1 800,164 V178 A2,2 0 0 1 798,180 H784 A2,2 0 0 1 782,178 V164 A2,2 0 0 1 784,162 Z" />
+  <path fill="#9BBBA8" d="M806,162 H820 A2,2 0 0 1 822,164 V178 A2,2 0 0 1 820,180 H806 A2,2 0 0 1 804,178 V164 A2,2 0 0 1 806,162 Z" />
+  <path fill="#6D9C83" d="M828,162 H842 A2,2 0 0 1 844,164 V178 A2,2 0 0 1 842,180 H828 A2,2 0 0 1 826,178 V164 A2,2 0 0 1 828,162 Z" />
+  <path fill="#498268" d="M850,162 H864 A2,2 0 0 1 866,164 V178 A2,2 0 0 1 864,180 H850 A2,2 0 0 1 848,178 V164 A2,2 0 0 1 850,162 Z" />
+  <path fill="#6D9C83" d="M872,162 H886 A2,2 0 0 1 888,164 V178 A2,2 0 0 1 886,180 H872 A2,2 0 0 1 870,178 V164 A2,2 0 0 1 872,162 Z" />
+  <path fill="#C4D6CC" d="M894,162 H908 A2,2 0 0 1 910,164 V178 A2,2 0 0 1 908,180 H894 A2,2 0 0 1 892,178 V164 A2,2 0 0 1 894,162 Z" />
+  <path fill="#C4D6CC" d="M762,184 H776 A2,2 0 0 1 778,186 V200 A2,2 0 0 1 776,202 H762 A2,2 0 0 1 760,200 V186 A2,2 0 0 1 762,184 Z" />
+  <path fill="#498268" d="M784,184 H798 A2,2 0 0 1 800,186 V200 A2,2 0 0 1 798,202 H784 A2,2 0 0 1 782,200 V186 A2,2 0 0 1 784,184 Z" />
+  <path fill="#498268" d="M806,184 H820 A2,2 0 0 1 822,186 V200 A2,2 0 0 1 820,202 H806 A2,2 0 0 1 804,200 V186 A2,2 0 0 1 806,184 Z" />
+  <path fill="#498268" d="M828,184 H842 A2,2 0 0 1 844,186 V200 A2,2 0 0 1 842,202 H828 A2,2 0 0 1 826,200 V186 A2,2 0 0 1 828,184 Z" />
+  <path fill="#6D9C83" d="M850,184 H864 A2,2 0 0 1 866,186 V200 A2,2 0 0 1 864,202 H850 A2,2 0 0 1 848,200 V186 A2,2 0 0 1 850,184 Z" />
+  <path fill="#E2EBE5" d="M872,184 H886 A2,2 0 0 1 888,186 V200 A2,2 0 0 1 886,202 H872 A2,2 0 0 1 870,200 V186 A2,2 0 0 1 872,184 Z" />
+  <path fill="#9BBBA8" d="M894,184 H908 A2,2 0 0 1 910,186 V200 A2,2 0 0 1 908,202 H894 A2,2 0 0 1 892,200 V186 A2,2 0 0 1 894,184 Z" />
+  <path fill="#498268" d="M762,206 H776 A2,2 0 0 1 778,208 V222 A2,2 0 0 1 776,224 H762 A2,2 0 0 1 760,222 V208 A2,2 0 0 1 762,206 Z" />
+  <path fill="#6D9C83" d="M784,206 H798 A2,2 0 0 1 800,208 V222 A2,2 0 0 1 798,224 H784 A2,2 0 0 1 782,222 V208 A2,2 0 0 1 784,206 Z" />
+  <path fill="#9BBBA8" d="M806,206 H820 A2,2 0 0 1 822,208 V222 A2,2 0 0 1 820,224 H806 A2,2 0 0 1 804,222 V208 A2,2 0 0 1 806,206 Z" />
+  <path fill="#C4D6CC" d="M828,206 H842 A2,2 0 0 1 844,208 V222 A2,2 0 0 1 842,224 H828 A2,2 0 0 1 826,222 V208 A2,2 0 0 1 828,206 Z" />
+  <path fill="#E2EBE5" d="M850,206 H864 A2,2 0 0 1 866,208 V222 A2,2 0 0 1 864,224 H850 A2,2 0 0 1 848,222 V208 A2,2 0 0 1 850,206 Z" />
+  <path fill="#498268" d="M872,206 H886 A2,2 0 0 1 888,208 V222 A2,2 0 0 1 886,224 H872 A2,2 0 0 1 870,222 V208 A2,2 0 0 1 872,206 Z" />
+  <path fill="#498268" d="M894,206 H908 A2,2 0 0 1 910,208 V222 A2,2 0 0 1 908,224 H894 A2,2 0 0 1 892,222 V208 A2,2 0 0 1 894,206 Z" />
+
+  
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M742,270 H938 A12,12 0 0 1 950,282 V428 A12,12 0 0 1 938,440 H742 A12,12 0 0 1 730,428 V282 A12,12 0 0 1 742,270 Z" />
+  <text x="840" y="300" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" font-weight="bold" fill="#498268">今日健康快照</text>
+  <path fill="#E2EBE5" d="M758,315 H827 A8,8 0 0 1 835,323 V347 A8,8 0 0 1 827,355 H758 A8,8 0 0 1 750,347 V323 A8,8 0 0 1 758,315 Z" />
+  <path fill="#FEFAF5" d="M853,315 H922 A8,8 0 0 1 930,323 V347 A8,8 0 0 1 922,355 H853 A8,8 0 0 1 845,347 V323 A8,8 0 0 1 853,315 Z" />
+  <path fill="#FDF6F8" d="M758,365 H827 A8,8 0 0 1 835,373 V397 A8,8 0 0 1 827,405 H758 A8,8 0 0 1 750,397 V373 A8,8 0 0 1 758,365 Z" />
+  <path fill="#E2EBE5" d="M853,365 H922 A8,8 0 0 1 930,373 V397 A8,8 0 0 1 922,405 H853 A8,8 0 0 1 845,397 V373 A8,8 0 0 1 853,365 Z" />
+  <text x="792" y="339" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="10" fill="#6D9C83">💧 6次</text>
+  <text x="887" y="339" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="10" fill="#6D9C83">🏃 3次</text>
+  <text x="792" y="389" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="10" fill="#6D9C83">💫 2次</text>
+  <text x="887" y="389" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="10" fill="#6D9C83">🌙 1次</text>
+
+  
+  <text x="640" y="530" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83" font-style="italic">" 不需要分析，不需要比较，只是看看这些天你的小痕迹。 "</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">11 / 17</text>
+</svg>

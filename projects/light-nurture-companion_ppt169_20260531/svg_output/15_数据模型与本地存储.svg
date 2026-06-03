@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title -->
+  <text x="80" y="55" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">本地优先的数据架构</text>
+  <rect x="80" y="72" width="50" height="3" rx="1.5" fill="#498268"/>
+
+  <!-- Data table (3 columns x 4 rows) -->
+  <!-- Header -->
+  <rect x="100" y="105" width="180" height="36" rx="6" fill="#498268"/>
+  <text x="190" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">数据表</text>
+  <rect x="288" y="105" width="120" height="36" rx="6" fill="#498268"/>
+  <text x="348" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">说明</text>
+  <rect x="416" y="105" width="180" height="36" rx="6" fill="#498268"/>
+  <text x="506" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">数据表</text>
+  <rect x="604" y="105" width="120" height="36" rx="6" fill="#498268"/>
+  <text x="664" y="129" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" font-weight="bold" fill="#FDFCF9">说明</text>
+
+  <!-- Row 1 -->
+  <rect x="100" y="148" width="180" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="115" y="171" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">hydration · 喝水记录</text>
+  <rect x="288" y="148" width="120" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="348" y="171" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">💧 饮水追踪</text>
+  <rect x="416" y="148" width="180" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="431" y="171" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">sticker · 成就贴纸</text>
+  <rect x="604" y="148" width="120" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="664" y="171" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">⭐ 6 种贴纸</text>
+
+  <!-- Row 2 -->
+  <rect x="100" y="188" width="180" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="115" y="211" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">standup · 起身记录</text>
+  <rect x="288" y="188" width="120" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="348" y="211" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🏃 久坐恢复</text>
+  <rect x="416" y="188" width="180" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="431" y="211" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">gentleQuote · 温柔语录</text>
+  <rect x="604" y="188" width="120" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="664" y="211" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">💬 AI 短句</text>
+
+  <!-- Row 3 -->
+  <rect x="100" y="228" width="180" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="115" y="251" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">emotionFood · 情绪进食</text>
+  <rect x="288" y="228" width="120" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="348" y="251" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🍽 饮食情绪</text>
+  <rect x="416" y="228" width="180" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="431" y="251" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">cycleRecord · 生理周期</text>
+  <rect x="604" y="228" width="120" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="664" y="251" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">📅 四阶段</text>
+
+  <!-- Row 4 -->
+  <rect x="100" y="268" width="180" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="115" y="291" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">medicine · 用药提醒</text>
+  <rect x="288" y="268" width="120" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="348" y="291" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">💊 定时提醒</text>
+  <rect x="416" y="268" width="180" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="431" y="291" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">snack · 零食记录</text>
+  <rect x="604" y="268" width="120" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="664" y="291" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🍪 emoji</text>
+
+  <!-- Row 5 -->
+  <rect x="100" y="308" width="180" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="115" y="331" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">moodTreeHole · 情绪树洞</text>
+  <rect x="288" y="308" width="120" height="34" rx="6" fill="#F4F7F5"/>
+  <text x="348" y="331" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">🌳 倾诉记录</text>
+  <rect x="416" y="308" width="180" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="431" y="331" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">sleep · 睡眠记录</text>
+  <rect x="604" y="308" width="120" height="34" rx="6" fill="#FDFCF9"/>
+  <text x="664" y="331" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">😴 好/一般/差</text>
+
+  <!-- Data principles -->
+  <text x="80" y="395" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">数据原则</text>
+
+  <rect x="80" y="415" width="200" height="42" rx="21" fill="#E2EBE5"/>
+  <text x="180" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">💾 全部本地存储</text>
+
+  <text x="300" y="441" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">→</text>
+
+  <rect x="330" y="415" width="200" height="42" rx="21" fill="#E2EBE5"/>
+  <text x="430" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">☁ 不上传云端</text>
+
+  <text x="550" y="441" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">→</text>
+
+  <rect x="580" y="415" width="230" height="42" rx="21" fill="#E2EBE5"/>
+  <text x="695" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">🔒 用户完全掌控</text>
+
+  <text x="830" y="441" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="18" fill="#C4D6CC">→</text>
+
+  <rect x="860" y="415" width="230" height="42" rx="21" fill="#E2EBE5"/>
+  <text x="975" y="441" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" fill="#1C3A2C">📤 AI 最小化数据</text>
+
+  <!-- DB info -->
+  <text x="80" y="510" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#9BBBA8">数据库：LightNurtureDB · 引擎：Dexie.js · 版本：v12（12 次增量迁移）· 共计 11 张业务表</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">15 / 17</text>
+</svg>

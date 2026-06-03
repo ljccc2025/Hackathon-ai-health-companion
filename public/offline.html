@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#4ea387" />
+  <title>轻养伴侣 — 离线中</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Noto Sans SC", "Inter", system-ui, -apple-system, sans-serif;
+      background: #f6fbf9;
+      color: #214a3d;
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { background: #0d1210; color: #cfe9dd; }
+    }
+    .card {
+      max-width: 360px;
+      text-align: center;
+      padding: 40px 28px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.7);
+      backdrop-filter: blur(16px);
+      border: 1px solid rgba(207,233,221,0.5);
+      box-shadow: 0 18px 45px -28px rgba(60,87,73,0.3);
+    }
+    @media (prefers-color-scheme: dark) {
+      .card {
+        background: rgba(23,33,29,0.85);
+        border-color: rgba(46,112,90,0.3);
+        box-shadow: 0 18px 45px -28px rgba(0,0,0,0.5);
+      }
+    }
+    .emoji { font-size: 48px; margin-bottom: 16px; }
+    h1 { font-size: 18px; font-weight: 500; margin-bottom: 8px; }
+    p { font-size: 14px; line-height: 1.7; opacity: 0.75; }
+    .tip { margin-top: 20px; font-size: 12px; opacity: 0.5; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="emoji">☁️</div>
+    <h1>轻养伴侣</h1>
+    <p>你现在在离线状态。<br />不需要网络，先喝两口水、站起来伸个懒腰。</p>
+    <p class="tip">恢复网络后会自动刷新，继续陪你。</p>
+  </div>
+</body>
+</html>

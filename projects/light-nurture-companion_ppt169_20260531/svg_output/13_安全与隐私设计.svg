@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9"/>
+
+  <!-- Title -->
+  <text x="80" y="55" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">🛡 安全边界与隐私保护</text>
+  <rect x="80" y="72" width="50" height="3" rx="1.5" fill="#498268"/>
+
+  <!-- Security pipeline (top) -->
+  <text x="80" y="110" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">安全管线流程</text>
+
+  <!-- Pipeline boxes -->
+  <rect x="80" y="124" width="150" height="36" rx="8" fill="#E2EBE5" stroke="#498268" stroke-width="1.5"/>
+  <text x="155" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">用户输入</text>
+
+  <text x="240" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <rect x="260" y="124" width="170" height="36" rx="8" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="345" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">紧急关键词检测</text>
+
+  <text x="440" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <rect x="460" y="124" width="130" height="36" rx="8" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="525" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">AI 处理</text>
+
+  <text x="600" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <rect x="620" y="124" width="170" height="36" rx="8" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="705" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">输出正则过滤</text>
+
+  <text x="800" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <rect x="820" y="124" width="140" height="36" rx="8" fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1"/>
+  <text x="890" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">XSS 转义</text>
+
+  <text x="970" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <rect x="990" y="124" width="150" height="36" rx="8" fill="#E2EBE5" stroke="#498268" stroke-width="1.5"/>
+  <text x="1065" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">安全展示 ✓</text>
+
+  <!-- Four security layers (2x2 grid) -->
+  <!-- Card 1: Input layer -->
+  <rect x="80" y="200" width="4" height="100" rx="2" fill="#D85C7E"/>
+  <rect x="80" y="200" width="540" height="100" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="230" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">1. 输入层 — 紧急关键词检测</text>
+  <text x="110" y="255" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">检测「自杀」「胸痛」「呼吸困难」等 10+ 紧急关键词</text>
+  <text x="110" y="278" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">触发后不调用 AI，直接返回安全引导信息，建议拨打 120</text>
+
+  <!-- Card 2: Output layer -->
+  <rect x="660" y="200" width="4" height="100" rx="2" fill="#F5973B"/>
+  <rect x="660" y="200" width="540" height="100" rx="10" fill="#F4F7F5"/>
+  <text x="690" y="230" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">2. 输出层 — 六组正则过滤</text>
+  <text x="690" y="255" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">过滤诊断用语 / 药物建议 / 处方 / 剂量 / 疾病描述 / 命令语气</text>
+  <text x="690" y="278" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">高风险匹配 → 全文替换为安全边界提示</text>
+
+  <!-- Card 3: Display layer -->
+  <rect x="80" y="325" width="4" height="100" rx="2" fill="#498268"/>
+  <rect x="80" y="325" width="540" height="100" rx="10" fill="#F4F7F5"/>
+  <text x="110" y="355" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">3. 展示层 — HTML 实体转义</text>
+  <text x="110" y="380" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">`&lt;` `&gt;` `&quot;` `&#x27;` `&#x2F;` — 防止 XSS 注入攻击</text>
+  <text x="110" y="403" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">所有用户可见文本经过安全转义后再渲染</text>
+
+  <!-- Card 4: Privacy layer -->
+  <rect x="660" y="325" width="4" height="100" rx="2" fill="#6D9C83"/>
+  <rect x="660" y="325" width="540" height="100" rx="10" fill="#F4F7F5"/>
+  <text x="690" y="355" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">4. 隐私层 — 数据本地 + 逐项授权</text>
+  <text x="690" y="380" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">所有健康数据默认本地 IndexedDB 存储，不上传云端</text>
+  <text x="690" y="403" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">AI 功能按数据类别独立授权（情绪/树洞/饮食逐项开关）</text>
+
+  <!-- Bottom note -->
+  <text x="80" y="520" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">用户拥有完全控制权。断网也能正常使用所有本地功能。</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">13 / 17</text>
+</svg>

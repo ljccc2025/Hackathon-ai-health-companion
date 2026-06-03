@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <text x="80" y="65" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">不是教练，是陪伴</text>
+  <path fill="#498268" d="M81.50,85 H128.50 A1.50,1.50 0 0 1 130,86.50 V86.50 A1.50,1.50 0 0 1 128.50,88 H81.50 A1.50,1.50 0 0 1 80,86.50 V86.50 A1.50,1.50 0 0 1 81.50,85 Z" />
+
+  
+  
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M94,130 H321 A14,14 0 0 1 335,144 V356 A14,14 0 0 1 321,370 H94 A14,14 0 0 1 80,356 V144 A14,14 0 0 1 94,130 Z" />
+  <text x="110" y="175" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="32" fill="#498268">🧘</text>
+  <text x="110" y="215" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">微习惯哲学</text>
+  <text x="110" y="250" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">喝一口水、伸展 30 秒</text>
+  <text x="110" y="274" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">就值得被记录</text>
+  <text x="110" y="310" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">不追求"完美自律"</text>
+  <text x="110" y="332" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">最小的行动也有意义</text>
+
+  
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M379,130 H606 A14,14 0 0 1 620,144 V356 A14,14 0 0 1 606,370 H379 A14,14 0 0 1 365,356 V144 A14,14 0 0 1 379,130 Z" />
+  <text x="395" y="175" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="32" fill="#498268">📜</text>
+  <text x="395" y="215" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">纸墨手帐美学</text>
+  <text x="395" y="250" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">宣纸纹理、墨色渐变</text>
+  <text x="395" y="274" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">像一本温暖的手帐</text>
+  <text x="395" y="310" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">非对称留白</text>
+  <text x="395" y="332" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">纸墨色彩系统</text>
+
+  
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M664,130 H891 A14,14 0 0 1 905,144 V356 A14,14 0 0 1 891,370 H664 A14,14 0 0 1 650,356 V144 A14,14 0 0 1 664,130 Z" />
+  <text x="680" y="175" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="32" fill="#D85C7E">🛡️</text>
+  <text x="680" y="215" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#D85C7E">安全边界</text>
+  <text x="680" y="250" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">不做诊断、不给药方</text>
+  <text x="680" y="274" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">守护用户健康安全</text>
+  <text x="680" y="310" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">三层安全管线</text>
+  <text x="680" y="332" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">紧急危机检测</text>
+
+  
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M949,130 H1176 A14,14 0 0 1 1190,144 V356 A14,14 0 0 1 1176,370 H949 A14,14 0 0 1 935,356 V144 A14,14 0 0 1 949,130 Z" />
+  <text x="965" y="175" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="32" fill="#498268">🔒</text>
+  <text x="965" y="215" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#498268">隐私优先</text>
+  <text x="965" y="250" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">数据本地存储</text>
+  <text x="965" y="274" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#1C3A2C">AI 授权由你控制</text>
+  <text x="965" y="310" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">IndexedDB 本地</text>
+  <text x="965" y="332" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="12" fill="#6D9C83">逐项授权开关</text>
+
+  
+  <path fill="#D85C7E" d="M83,430 H83 A3,3 0 0 1 86,433 V457 A3,3 0 0 1 83,460 H83 A3,3 0 0 1 80,457 V433 A3,3 0 0 1 83,430 Z" />
+  <text x="105" y="453" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="20" fill="#D85C7E" font-style="italic">" 今天先照顾自己一点点。 "</text>
+
+  
+  <text x="80" y="520" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">我们不是一个冷冰冰的健康教练，而是一本会关心你的纸墨手帐。</text>
+
+  
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">04 / 17</text>
+</svg>

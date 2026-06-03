@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="#FDFCF9" />
+
+  
+  <text x="80" y="55" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1C3A2C">🛡 安全边界与隐私保护</text>
+  <path fill="#498268" d="M81.50,72 H128.50 A1.50,1.50 0 0 1 130,73.50 V73.50 A1.50,1.50 0 0 1 128.50,75 H81.50 A1.50,1.50 0 0 1 80,73.50 V73.50 A1.50,1.50 0 0 1 81.50,72 Z" />
+
+  
+  <text x="80" y="110" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6D9C83">安全管线流程</text>
+
+  
+  <path fill="#E2EBE5" stroke="#498268" stroke-width="1.5" d="M88,124 H222 A8,8 0 0 1 230,132 V152 A8,8 0 0 1 222,160 H88 A8,8 0 0 1 80,152 V132 A8,8 0 0 1 88,124 Z" />
+  <text x="155" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">用户输入</text>
+
+  <text x="240" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M268,124 H422 A8,8 0 0 1 430,132 V152 A8,8 0 0 1 422,160 H268 A8,8 0 0 1 260,152 V132 A8,8 0 0 1 268,124 Z" />
+  <text x="345" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">紧急关键词检测</text>
+
+  <text x="440" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M468,124 H582 A8,8 0 0 1 590,132 V152 A8,8 0 0 1 582,160 H468 A8,8 0 0 1 460,152 V132 A8,8 0 0 1 468,124 Z" />
+  <text x="525" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">AI 处理</text>
+
+  <text x="600" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M628,124 H782 A8,8 0 0 1 790,132 V152 A8,8 0 0 1 782,160 H628 A8,8 0 0 1 620,152 V132 A8,8 0 0 1 628,124 Z" />
+  <text x="705" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">输出正则过滤</text>
+
+  <text x="800" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <path fill="#F4F7F5" stroke="#E5D9C3" stroke-width="1" d="M828,124 H952 A8,8 0 0 1 960,132 V152 A8,8 0 0 1 952,160 H828 A8,8 0 0 1 820,152 V132 A8,8 0 0 1 828,124 Z" />
+  <text x="890" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">XSS 转义</text>
+
+  <text x="970" y="148" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="16" fill="#C4D6CC">→</text>
+
+  <path fill="#E2EBE5" stroke="#498268" stroke-width="1.5" d="M998,124 H1132 A8,8 0 0 1 1140,132 V152 A8,8 0 0 1 1132,160 H998 A8,8 0 0 1 990,152 V132 A8,8 0 0 1 998,124 Z" />
+  <text x="1065" y="147" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#1C3A2C">安全展示 ✓</text>
+
+  
+  
+  <path fill="#D85C7E" d="M82,200 H82 A2,2 0 0 1 84,202 V298 A2,2 0 0 1 82,300 H82 A2,2 0 0 1 80,298 V202 A2,2 0 0 1 82,200 Z" />
+  <path fill="#F4F7F5" d="M90,200 H610 A10,10 0 0 1 620,210 V290 A10,10 0 0 1 610,300 H90 A10,10 0 0 1 80,290 V210 A10,10 0 0 1 90,200 Z" />
+  <text x="110" y="230" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">1. 输入层 — 紧急关键词检测</text>
+  <text x="110" y="255" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">检测「自杀」「胸痛」「呼吸困难」等 10+ 紧急关键词</text>
+  <text x="110" y="278" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">触发后不调用 AI，直接返回安全引导信息，建议拨打 120</text>
+
+  
+  <path fill="#F5973B" d="M662,200 H662 A2,2 0 0 1 664,202 V298 A2,2 0 0 1 662,300 H662 A2,2 0 0 1 660,298 V202 A2,2 0 0 1 662,200 Z" />
+  <path fill="#F4F7F5" d="M670,200 H1190 A10,10 0 0 1 1200,210 V290 A10,10 0 0 1 1190,300 H670 A10,10 0 0 1 660,290 V210 A10,10 0 0 1 670,200 Z" />
+  <text x="690" y="230" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">2. 输出层 — 六组正则过滤</text>
+  <text x="690" y="255" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">过滤诊断用语 / 药物建议 / 处方 / 剂量 / 疾病描述 / 命令语气</text>
+  <text x="690" y="278" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">高风险匹配 → 全文替换为安全边界提示</text>
+
+  
+  <path fill="#498268" d="M82,325 H82 A2,2 0 0 1 84,327 V423 A2,2 0 0 1 82,425 H82 A2,2 0 0 1 80,423 V327 A2,2 0 0 1 82,325 Z" />
+  <path fill="#F4F7F5" d="M90,325 H610 A10,10 0 0 1 620,335 V415 A10,10 0 0 1 610,425 H90 A10,10 0 0 1 80,415 V335 A10,10 0 0 1 90,325 Z" />
+  <text x="110" y="355" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">3. 展示层 — HTML 实体转义</text>
+  <text x="110" y="380" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">`&lt;` `&gt;` `"` `'` `/` — 防止 XSS 注入攻击</text>
+  <text x="110" y="403" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">所有用户可见文本经过安全转义后再渲染</text>
+
+  
+  <path fill="#6D9C83" d="M662,325 H662 A2,2 0 0 1 664,327 V423 A2,2 0 0 1 662,425 H662 A2,2 0 0 1 660,423 V327 A2,2 0 0 1 662,325 Z" />
+  <path fill="#F4F7F5" d="M670,325 H1190 A10,10 0 0 1 1200,335 V415 A10,10 0 0 1 1190,425 H670 A10,10 0 0 1 660,415 V335 A10,10 0 0 1 670,325 Z" />
+  <text x="690" y="355" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1C3A2C">4. 隐私层 — 数据本地 + 逐项授权</text>
+  <text x="690" y="380" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">所有健康数据默认本地 IndexedDB 存储，不上传云端</text>
+  <text x="690" y="403" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="13" fill="#6D9C83">AI 功能按数据类别独立授权（情绪/树洞/饮食逐项开关）</text>
+
+  
+  <text x="80" y="520" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="14" fill="#6D9C83">用户拥有完全控制权。断网也能正常使用所有本地功能。</text>
+
+  <text x="1220" y="700" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, &quot;PingFang SC&quot;, Arial, sans-serif" font-size="11" fill="#C4D6CC">13 / 17</text>
+</svg>

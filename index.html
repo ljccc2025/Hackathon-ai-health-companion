@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="轻养伴侣 - AI 温柔健康微习惯助手" />
+
+    <!-- PWA: theme color for browser chrome -->
+    <meta name="theme-color" content="#4ea387" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0d1210" media="(prefers-color-scheme: dark)" />
+
+    <!-- iOS Safari: Add to Home Screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="轻养伴侣" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+
+    <!-- Preconnect for Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- 字体预加载 - 使用 display=swap 确保文本可见 -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+SC:wght@300;400;500;700&family=ZCOOL+KuaiLe&display=swap" rel="stylesheet" />
+
+    <!-- 字体加载优化：添加字体显示策略 -->
+    <style>
+      /* 确保字体加载期间文本可见 */
+      @font-face {
+        font-family: 'Noto Sans SC';
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'ZCOOL KuaiLe';
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'Inter';
+        font-display: swap;
+      }
+    </style>
+    <title>轻养伴侣 - 今天从一口水开始</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
