@@ -120,7 +120,7 @@ ai-health-companion/
 ### 前提条件
 
 - Node.js >= 18
-- 一个 DeepSeek（或其他 OpenAI 兼容）的 API Key
+- 一个 DeepSeek（或其他 OpenAI 兼容）的 API Key（需要去官网获取）
 
 ### 1. 安装依赖
 
@@ -131,15 +131,11 @@ npm install
 
 ### 2. 配置环境变量
 
-在项目根目录创建 `.env.local`：
-
-```env
-AI_API_KEY=your-deepseek-api-key
-AI_BASE_URL=https://api.deepseek.com/v1
-AI_MODEL=deepseek-chat
-AI_TIMEOUT_MS=8000
-API_PORT=8787
+```bash
+cp .env.example .env.local
 ```
+
+然后编辑 `.env.local`，将 `AI_API_KEY` 替换为你的 DeepSeek API Key（或任意 OpenAI 兼容服务的 Key）。
 
 ### 3. 启动开发环境
 
@@ -155,10 +151,7 @@ npm run dev:api
 
 ```bash
 npm run build
-npm run preview   # 预览构建结果
 ```
-
-***
 
 ## 设计理念
 
